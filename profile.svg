@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">OZ monogram profile image</title>
+  <desc id="desc">A simple academic homepage avatar with the initials OZ.</desc>
+  <rect width="360" height="360" rx="18" fill="#f8f7f2"/>
+  <path d="M42 260C86 204 115 150 158 100C193 59 246 52 308 82" fill="none" stroke="#1f6fb2" stroke-width="20" stroke-linecap="round"/>
+  <path d="M54 281H302" stroke="#3f7661" stroke-width="14" stroke-linecap="round"/>
+  <path d="M91 106H197L92 254H208" fill="none" stroke="#202020" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="255" cy="134" r="49" fill="none" stroke="#a77628" stroke-width="16"/>
+  <circle cx="292" cy="254" r="13" fill="#1f6fb2"/>
+</svg>
